@@ -1,2 +1,0 @@
-# CurriculumDesign
-my Curriculum Design 
